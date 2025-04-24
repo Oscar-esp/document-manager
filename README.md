@@ -1,6 +1,6 @@
 # Sistema de Gestión de Documentos
 
-Desarrollado por Oscar Morales Hernando
+Desarrollado por Oscar 
 
 ## Descripción
 Este proyecto implementa un sistema de gestión documental que permite el control y seguimiento de documentos, incluyendo:
