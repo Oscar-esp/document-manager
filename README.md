@@ -25,9 +25,8 @@ npm run dev
 ## Uso
 El sistema permite:
 1. Crear y editar documentos
-2. Asignar números correlativos automáticamente
-3. Mantener un historial de cambios
-4. Categorizar documentos por área y tipo
+2. Mantener un historial de cambios
+3. Categorizar documentos por área y tipo
 
 ## Contacto
 Para más información, contactar a Oscar 
